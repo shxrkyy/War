@@ -31,3 +31,8 @@ Team 2: (unknown name) (unknown players)
 Team 2: 1 Netherite Ingot per God Kit per Person.
 Team 2: Refill Kits: 3 emeralds per kit (Kits: XP, Crystals, Webs, Obby, E-chests, Pickaxes, Swords, Bows, Arrows, Chorus Fruit, God Apples, Respawn Anchors, Glowstone, Beds, and more stuff.)
 
+# How To Use each PvP Meta
+
+Video link: https://youtu.be/kVGQcAtdbTc
+
+# Enjoy!
