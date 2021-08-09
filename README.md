@@ -8,7 +8,7 @@ The rules are below.
 
 PvP Metas: You can only use the PvP Meta assigned with the round. So if the round was assigned CrystalPvP, you could ONLY use CrystalPvP until the round is over.
 
-1 Pop: If you pop 1 totem, that 1 person (not the whole team) will be out for the rest of the round. When the entire team pops 1 totem, that team is out.
+1 Pop: If you pop 1 totem, that 1 person (not the whole team) will be out for the rest of the round. When the entire team pops 1 totem, that team is out from the round.
 
 # Rounds
 
